@@ -1,1 +1,1 @@
-# pyhton-interestrate-calc
+calculates interest rates
